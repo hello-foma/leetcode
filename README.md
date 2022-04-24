@@ -8,3 +8,4 @@ My leetcode walkthroughs
 | [217-contains-duplicate.js](https://leetcode.com/problems/contains-duplicate/) | 23/04/2022 | true   | true      |
 | [53-maximum-subarray.js](https://leetcode.com/problems/maximum-subarray/)      | 23/04/2022 | true   | false     |
 | [1-two-sum.js](https://leetcode.com/problems/two-sum/)                         | 24/04/2022 | true   | true      |
+| [88-merge-sorted-array.js](https://leetcode.com/problems/merge-sorted-array/)  | 24/04/2022 | true   | true      |
