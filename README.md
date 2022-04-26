@@ -16,5 +16,5 @@ My leetcode walkthroughs
 | [566-reshape-the-matrix.js](https://leetcode.com/problems/reshape-the-matrix/)                                                                            | 26/04/2022 | true   | true      |
 | [118-pascals-triangle.js](https://leetcode.com/problems/pascals-triangle/)                                                                                | 26/04/2022 | true   | true      | true            |
 | [191-number-of-1-bits.js](https://leetcode.com/problems/number-of-1-bits/)                                                                                | 26/04/2022 | true   | true      | false           |
-| 1281-subtract-the-product-and-sum-of-digits-of-an-integer.js](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)        | 26/04/2022 | true   | true      | false           |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer.js](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)        | 26/04/2022 | true   | true      | false           |
 
