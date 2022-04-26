@@ -15,4 +15,6 @@ My leetcode walkthroughs
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary.js](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | 25/04/2022 | true   | true      |
 | [566-reshape-the-matrix.js](https://leetcode.com/problems/reshape-the-matrix/)                                                                            | 26/04/2022 | true   | true      |
 | [118-pascals-triangle.js](https://leetcode.com/problems/pascals-triangle/)                                                                                | 26/04/2022 | true   | true      | true            |
+| [191-number-of-1-bits.js](https://leetcode.com/problems/number-of-1-bits/)                                                                                | 26/04/2022 | true   | true      | false           |
+| 1281-subtract-the-product-and-sum-of-digits-of-an-integer.js](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)        | 26/04/2022 | true   | true      | false           |
 
