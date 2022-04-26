@@ -13,4 +13,5 @@ My leetcode walkthroughs
 | [121-best-time-to-buy-and-sell-stock.js](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                  | 25/04/2022 | true   | true      |
 | [1523-count-odd-numbers-in-an-interval-range.js](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)                                   | 25/04/2022 | true   | true      |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary.js](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | 25/04/2022 | true   | true      |
+| [566-reshape-the-matrix.js](https://leetcode.com/problems/reshape-the-matrix/)                                                                            | 26/04/2022 | true   | true      |
 
