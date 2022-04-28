@@ -21,4 +21,5 @@ My leetcode walkthroughs
 | [74-search-a-2d-matrix.js](https://leetcode.com/problems/search-a-2d-matrix)                                                                              | 27/04/2022 | true   | true      | true            |
 | [387-first-unique-character-in-a-string.js](https://leetcode.com/problems/first-unique-character-in-a-string/)                                            | 28/04/2022 | true   | true      | false           |
 | [383-ransom-note.js](https://leetcode.com/problems/ransom-note/)                                                                                          | 28/04/2022 | true   | true      | false           |
+| [242-valid-anagram.js](https://leetcode.com/problems/valid-anagram/)                                                                                      | 28/04/2022 | true   | true      | false           |
 
