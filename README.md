@@ -23,4 +23,5 @@ My leetcode walkthroughs
 | [383-ransom-note.js](https://leetcode.com/problems/ransom-note/)                                                                                          | 28/04/2022 | true   | true      | false           |
 | [242-valid-anagram.js](https://leetcode.com/problems/valid-anagram/)                                                                                      | 28/04/2022 | true   | true      | false           |
 | [976-largest-perimeter-triangle.js](https://leetcode.com/problems/largest-perimeter-triangle)                                                             | 28/04/2022 | true   | false     | false           |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.js](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)   | 28/04/2022 | true   | true      | false           |
 
