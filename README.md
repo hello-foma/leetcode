@@ -19,4 +19,5 @@ My leetcode walkthroughs
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer.js](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)       | 26/04/2022 | true   | true      | false           |
 | [36-valid-sudoku.js](https://leetcode.com/problems/valid-sudoku/)                                                                                         | 27/04/2022 | true   | true      | true            |
 | [74-search-a-2d-matrix.js](https://leetcode.com/problems/search-a-2d-matrix)                                                                              | 27/04/2022 | true   | true      | true            |
+| [387-first-unique-character-in-a-string.js](https://leetcode.com/problems/first-unique-character-in-a-string/)                                            | 28/04/2022 | true   | true      | false           |
 
