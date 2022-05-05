@@ -25,4 +25,5 @@ My leetcode walkthroughs
 | [976-largest-perimeter-triangle.js](https://leetcode.com/problems/largest-perimeter-triangle)                                                             | 28/04/2022 | true   | false     | false           |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate.js](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)   | 28/04/2022 | true   | true      | false           |
 | [141-linked-list-cycle.js](https://leetcode.com/problems/linked-list-cycle)                                                                               | 02/05/2022 | true   | true      | false           |
+| [21-merge-two-sorted-lists.js](https://leetcode.com/problems/merge-two-sorted-lists)                                                                      | 05/05/2022 | true   | true      | false           |
 
