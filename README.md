@@ -27,4 +27,5 @@ My leetcode walkthroughs
 | [141-linked-list-cycle.js](https://leetcode.com/problems/linked-list-cycle)                                                                               | 02/05/2022 | true   | true      | false           |
 | [21-merge-two-sorted-lists.js](https://leetcode.com/problems/merge-two-sorted-lists)                                                                      | 05/05/2022 | true   | true      | false           |
 | [203-remove-linked-list-elements.js](https://leetcode.com/problems/remove-linked-list-elements/)                                                          | 05/05/2022 | true   | true      | false           |
+| [206-reverse-linked-list.js](https://leetcode.com/problems/reverse-linked-list)                                                                           | 06/05/2022 | true   | true      | true            |
 
