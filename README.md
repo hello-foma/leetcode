@@ -28,4 +28,5 @@ My leetcode walkthroughs
 | [21-merge-two-sorted-lists.js](https://leetcode.com/problems/merge-two-sorted-lists)                                                                      | 05/05/2022 | true   | true      | false           |
 | [203-remove-linked-list-elements.js](https://leetcode.com/problems/remove-linked-list-elements/)                                                          | 05/05/2022 | true   | true      | false           |
 | [206-reverse-linked-list.js](https://leetcode.com/problems/reverse-linked-list)                                                                           | 06/05/2022 | true   | true      | true            |
+| [83-remove-duplicates-from-sorted-list.js](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                             | 06/05/2022 | true   | true      | true            |
 | [1-two-sum-1.js](https://leetcode.com/problems/two-sum/)                                                                                                  | 22/05/2022 | true   | true      | false           | O(n), O(n) |
