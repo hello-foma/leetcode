@@ -30,3 +30,4 @@ My leetcode walkthroughs
 | [206-reverse-linked-list.js](https://leetcode.com/problems/reverse-linked-list)                                                                           | 06/05/2022 | true   | true      | true            |
 | [83-remove-duplicates-from-sorted-list.js](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                             | 06/05/2022 | true   | true      | true            |
 | [1-two-sum-1.js](https://leetcode.com/problems/two-sum/)                                                                                                  | 22/05/2022 | true   | true      | false           | O(n), O(n) |
+| [20-valid-parentheses.js](https://leetcode.com/problems/valid-parentheses/)                                                                               | 22/05/2022 | true   | true      | false           | O(n), O(n) |
