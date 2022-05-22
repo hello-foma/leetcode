@@ -34,3 +34,4 @@ My leetcode walkthroughs
 | [21-merge-two-sorted-lists-1.js](https://leetcode.com/problems/merge-two-sorted-lists)                                                                    | 22/05/2022 | true   | true      | false           | O(n), O(n) |
 | [121-best-time-to-buy-and-sell-stock-1.js](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                | 22/05/2022 | true   | true      | false           | O(n), O(1) |
 | [125-valid-palindrome.js](https://leetcode.com/problems/valid-palindrome/)                                                                                | 22/05/2022 | true   | true      | false           | O(n), O(1) |
+| [226-invert-binary-tree.js](https://leetcode.com/problems/invert-binary-tree/)                                                                            | 22/05/2022 | true   | true      | true            | O(n), O(n) |
