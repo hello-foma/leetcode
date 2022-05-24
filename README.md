@@ -38,3 +38,4 @@ My leetcode walkthroughs
 | [242-valid-anagram-1.js](https://leetcode.com/problems/valid-anagram)                                                                                     | 22/05/2022 | true   | true      | false           | O(n), O(n)      |
 | [704-binary-search.js](https://leetcode.com/problems/binary-search/)                                                                                      | 22/05/2022 | true   | true      | false           | O(log(n)), O(1) |
 | [733-flood-fill.js](https://leetcode.com/problems/flood-fill/)                                                                                            | 22/05/2022 | true   | true      | false           | O(n), O(1)      |
+| [53-maximum-subarray-1.js](https://leetcode.com/problems/maximum-subarray/)                                                                               | 24/05/2022 | true   | true      | false           | O(n), O(1)      |
