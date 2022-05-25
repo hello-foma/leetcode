@@ -40,3 +40,4 @@ My leetcode walkthroughs
 | [733-flood-fill.js](https://leetcode.com/problems/flood-fill/)                                                                                            | 22/05/2022 | true   | true      | false           | O(n), O(1)      |
 | [53-maximum-subarray-1.js](https://leetcode.com/problems/maximum-subarray/)                                                                               | 24/05/2022 | true   | true      | false           | O(n), O(1)      |
 | [235-lowest-common-ancestor-of-a-binary-search-tree.js](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                    | 24/05/2022 | true   | true      | false           | O(log(n)), O(1) |
+| [110-balanced-binary-tree.js](https://leetcode.com/problems/balanced-binary-tree/)                                                                        | 25/05/2022 | true   | false     | false           | O(n), O(n)      |
