@@ -3,8 +3,8 @@ My leetcode walkthroughs
 
 [Whiteboard with solution schemas](https://app.mural.co/t/sandbox9710/m/sandbox9710/1650713153635/86e53ef0be0f5e3ba627847396192dbe0b430341?sender=u5754990d569da3fc75054723)
 
-| Task                                                                                                                                                      | Date       | Solved | By myself | Can be improved | Complexity |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|-----------|-----------------|------------|
+| Task                                                                                                                                                      | Date       | Solved | By myself | Can be improved | Complexity      |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|-----------|-----------------|-----------------|
 | [217-contains-duplicate.js](https://leetcode.com/problems/contains-duplicate/)                                                                            | 23/04/2022 | true   | true      |
 | [53-maximum-subarray.js](https://leetcode.com/problems/maximum-subarray/)                                                                                 | 23/04/2022 | true   | false     |
 | [1-two-sum.js](https://leetcode.com/problems/two-sum/)                                                                                                    | 24/04/2022 | true   | true      |
@@ -29,4 +29,15 @@ My leetcode walkthroughs
 | [203-remove-linked-list-elements.js](https://leetcode.com/problems/remove-linked-list-elements/)                                                          | 05/05/2022 | true   | true      | false           |
 | [206-reverse-linked-list.js](https://leetcode.com/problems/reverse-linked-list)                                                                           | 06/05/2022 | true   | true      | true            |
 | [83-remove-duplicates-from-sorted-list.js](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                             | 06/05/2022 | true   | true      | true            |
-| [1-two-sum-1.js](https://leetcode.com/problems/two-sum/)                                                                                                  | 22/05/2022 | true   | true      | false           | O(n), O(n) |
+| [1-two-sum-1.js](https://leetcode.com/problems/two-sum/)                                                                                                  | 22/05/2022 | true   | true      | false           | O(n), O(n)      |
+| [20-valid-parentheses.js](https://leetcode.com/problems/valid-parentheses/)                                                                               | 22/05/2022 | true   | true      | false           | O(n), O(n)      |
+| [21-merge-two-sorted-lists-1.js](https://leetcode.com/problems/merge-two-sorted-lists)                                                                    | 22/05/2022 | true   | true      | false           | O(n), O(n)      |
+| [121-best-time-to-buy-and-sell-stock-1.js](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                | 22/05/2022 | true   | true      | false           | O(n), O(1)      |
+| [125-valid-palindrome.js](https://leetcode.com/problems/valid-palindrome/)                                                                                | 22/05/2022 | true   | true      | false           | O(n), O(1)      |
+| [226-invert-binary-tree.js](https://leetcode.com/problems/invert-binary-tree/)                                                                            | 22/05/2022 | true   | true      | true            | O(n), O(n)      |
+| [242-valid-anagram-1.js](https://leetcode.com/problems/valid-anagram)                                                                                     | 22/05/2022 | true   | true      | false           | O(n), O(n)      |
+| [704-binary-search.js](https://leetcode.com/problems/binary-search/)                                                                                      | 22/05/2022 | true   | true      | false           | O(log(n)), O(1) |
+| [733-flood-fill.js](https://leetcode.com/problems/flood-fill/)                                                                                            | 22/05/2022 | true   | true      | false           | O(n), O(1)      |
+| [53-maximum-subarray-1.js](https://leetcode.com/problems/maximum-subarray/)                                                                               | 24/05/2022 | true   | true      | false           | O(n), O(1)      |
+| [235-lowest-common-ancestor-of-a-binary-search-tree.js](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                    | 24/05/2022 | true   | true      | false           | O(log(n)), O(1) |
+| [110-balanced-binary-tree.js](https://leetcode.com/problems/balanced-binary-tree/)                                                                        | 25/05/2022 | true   | false     | false           | O(n), O(n)      |
