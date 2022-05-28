@@ -41,3 +41,4 @@ My leetcode walkthroughs
 | [53-maximum-subarray-1.js](https://leetcode.com/problems/maximum-subarray/)                                                                               | 24/05/2022 | true   | true      | false           | O(n), O(1)      |
 | [235-lowest-common-ancestor-of-a-binary-search-tree.js](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                    | 24/05/2022 | true   | true      | false           | O(log(n)), O(1) |
 | [110-balanced-binary-tree.js](https://leetcode.com/problems/balanced-binary-tree/)                                                                        | 25/05/2022 | true   | false     | false           | O(n), O(n)      |
+| [141-linked-list-cycle-1.js](https://leetcode.com/problems/linked-list-cycle/)                                                                            | 28/05/2022 | true   | true      | false           | O(n), O(n)      |
