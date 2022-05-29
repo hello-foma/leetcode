@@ -49,3 +49,4 @@ My leetcode walkthroughs
 | [409-longest-palindrome.js](https://leetcode.com/problems/longest-palindrome/)                                                                            | 29/05/2022 | true   | true      | true            | O(n), O(n)      |
 | [155-min-stack.js](https://leetcode.com/problems/min-stack/)                                                                                              | 29/05/2022 | true   | true      | false           | O(1), O(n)      |
 | [206-reverse-linked-list-1.js](https://leetcode.com/problems/reverse-linked-list/)                                                                        | 29/05/2022 | true   | true      | false           | O(n), O(n)      |
+| [169-majority-element.js](https://leetcode.com/problems/majority-element/)                                                                                | 29/05/2022 | true   | true      | false           | O(n), O(1)      |
