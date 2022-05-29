@@ -47,3 +47,4 @@ My leetcode walkthroughs
 | [383-ransom-note-1.js](https://leetcode.com/problems/ransom-note/)                                                                                        | 29/05/2022 | true   | true      | false           | O(n), O(n)      |
 | [70-climbing-stairs.js](https://leetcode.com/problems/climbing-stairs/)                                                                                   | 29/05/2022 | true   | true      | true            | O(n), O(n)      |
 | [409-longest-palindrome.js](https://leetcode.com/problems/longest-palindrome/)                                                                            | 29/05/2022 | true   | true      | true            | O(n), O(n)      |
+| [155-min-stack.js](https://leetcode.com/problems/min-stack/)                                                                                              | 29/05/2022 | true   | true      | false           | O(1), O(n)      |
