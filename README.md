@@ -45,3 +45,4 @@ My leetcode walkthroughs
 | [232-implement-queue-using-stacks.js](https://leetcode.com/problems/implement-queue-using-stacks/)                                                        | 28/05/2022 | true   | true      | false           | O(n), O(n)      |
 | [278-first-bad-version.js](https://leetcode.com/problems/first-bad-version/)                                                                              | 29/05/2022 | true   | true      | false           | O(log(n)), O(1) |
 | [383-ransom-note-1.js](https://leetcode.com/problems/ransom-note/)                                                                                        | 29/05/2022 | true   | true      | false           | O(n), O(n)      |
+| [70-climbing-stairs.js](https://leetcode.com/problems/climbing-stairs/)                                                                                   | 29/05/2022 | true   | true      | true            | O(n), O(n)      |
