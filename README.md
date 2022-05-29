@@ -52,3 +52,4 @@ My leetcode walkthroughs
 | [169-majority-element.js](https://leetcode.com/problems/majority-element/)                                                                                | 29/05/2022 | true   | true      | false           | O(n), O(1)      |
 | [67-add-binary.js](https://leetcode.com/problems/add-binary/)                                                                                             | 29/05/2022 | true   | true      | false           | O(n), O(n)      |
 | [543-diameter-of-binary-tree.js](https://leetcode.com/problems/diameter-of-binary-tree/)                                                                  | 29/05/2022 | true   | true      | false           | O(n), O(n)      |
+| [876-middle-of-the-linked-list.js](https://leetcode.com/problems/middle-of-the-linked-list/)                                                              | 29/05/2022 | true   | true      | false           | O(n), O(1)      |
