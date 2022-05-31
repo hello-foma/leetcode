@@ -57,3 +57,4 @@ My leetcode walkthroughs
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                              | 31/05/2022 | true   | true      | false           | O(n), O(1)      |
 | [252-meeting-rooms.js](https://leetcode.com/problems/meeting-rooms/)                                                                                      | 31/05/2022 | true   | true      | false           | O(n), O(1)      |
 | [13-roman-to-integer.js](https://leetcode.com/problems/roman-to-integer/)                                                                                 | 31/05/2022 | true   | true      | true            | O(n), O(1)      |
+| [844-backspace-string-compare.js](https://leetcode.com/problems/backspace-string-compare/)                                                                | 31/05/2022 | true   | true      | false           | O(n), O(1)      |
