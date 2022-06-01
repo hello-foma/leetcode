@@ -58,3 +58,4 @@ My leetcode walkthroughs
 | [252-meeting-rooms.js](https://leetcode.com/problems/meeting-rooms/)                                                                                      | 31/05/2022 | true   | true      | false           | O(n), O(1)      |
 | [13-roman-to-integer.js](https://leetcode.com/problems/roman-to-integer/)                                                                                 | 31/05/2022 | true   | true      | true            | O(n), O(1)      |
 | [844-backspace-string-compare.js](https://leetcode.com/problems/backspace-string-compare/)                                                                | 31/05/2022 | true   | true      | false           | O(n), O(1)      |
+| [338-counting-bits.js](https://leetcode.com/problems/counting-bits/)                                                                                      | 01/06/2022 | true   | false     | false           | O(n), O(n)      |
