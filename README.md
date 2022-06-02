@@ -62,3 +62,4 @@ My leetcode walkthroughs
 | [100-same-tree.js](https://leetcode.com/problems/same-tree/)                                                                                              | 01/06/2022 | true   | true      | false           | O(n), O(n)      |
 | [191-number-of-1-bits-1.js](https://leetcode.com/problems/number-of-1-bits/)                                                                              | 01/06/2022 | true   | true      | true            | O(n), O(n)      |
 | [14-longest-common-prefix.js](https://leetcode.com/problems/longest-common-prefix/)                                                                       | 01/06/2022 | true   | true      | false           | O(n), O(1)      |
+| [136-single-number.js](https://leetcode.com/problems/single-number/)                                                                                      | 02/06/2022 | true   | false     | false           | O(n), O(1)      |
