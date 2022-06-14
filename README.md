@@ -65,3 +65,4 @@ My leetcode walkthroughs
 | [136-single-number.js](https://leetcode.com/problems/single-number/)                                                                                      | 02/06/2022 | true   | false     | false           | O(n), O(1)      |
 | [57-insert-interval.js](https://leetcode.com/problems/insert-interval/)                                                                                   | 03/06/2022 | true   | true      | true            | O(n), O(n)      |
 | [542-01-matrix.js](https://leetcode.com/problems/01-matrix/)                                                                                              | 04/06/2022 | true   | false     | true            | O(n), O(n)      |
+| [973-k-closest-points-to-origin.js](https://leetcode.com/problems/k-closest-points-to-origin/)                                                            | 14/06/2022 | true   | false     | false           | O(n), O(1)      |
