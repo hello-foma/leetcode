@@ -66,3 +66,4 @@ My leetcode walkthroughs
 | [57-insert-interval.js](https://leetcode.com/problems/insert-interval/)                                                                                   | 03/06/2022 | true   | true      | true            | O(n), O(n)      |
 | [542-01-matrix.js](https://leetcode.com/problems/01-matrix/)                                                                                              | 04/06/2022 | true   | false     | true            | O(n), O(n)      |
 | [973-k-closest-points-to-origin.js](https://leetcode.com/problems/k-closest-points-to-origin/)                                                            | 14/06/2022 | true   | false     | false           | O(n), O(1)      |
+| [3-longest-substring-without-repeating-characters.js](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                      | 15/06/2022 | true   | true      | false           | O(n), O(1)      |
