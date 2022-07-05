@@ -70,3 +70,4 @@ My leetcode walkthroughs
 | [15-3sum.js](https://leetcode.com/problems/3sum/)                                                                                                         | 04/07/2022 | true   | false     | false           | O(n^2), O(n)    |
 | [102-binary-tree-level-order-traversal.js](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                              | 05/07/2022 | true   | true      | false           | O(n), O(n)      |
 | [133-clone-graph.js](https://leetcode.com/problems/clone-graph/)                                                                                          | 05/07/2022 | true   | true      | false           | O(n), O(n)      |
+| [150-evaluate-reverse-polish-notation.js](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                                                | 05/07/2022 | true   | true      | false           | O(n), O(1)      |
