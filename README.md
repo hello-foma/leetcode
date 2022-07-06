@@ -72,3 +72,4 @@ My leetcode walkthroughs
 | [133-clone-graph.js](https://leetcode.com/problems/clone-graph/)                                                                                          | 05/07/2022 | true   | true      | false           | O(n), O(n)      |
 | [150-evaluate-reverse-polish-notation.js](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                                                | 05/07/2022 | true   | true      | false           | O(n), O(1)      |
 | [207-course-schedule.js](https://leetcode.com/problems/course-schedule/)                                                                                  | 06/07/2022 | true   | true      | true            | O(n), O(n)      |
+| [208-implement-trie-prefix-tree.js](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                            | 06/07/2022 | true   | true      | false           | O(n), O(n)      |
