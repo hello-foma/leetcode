@@ -71,3 +71,4 @@ My leetcode walkthroughs
 | [102-binary-tree-level-order-traversal.js](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                              | 05/07/2022 | true   | true      | false           | O(n), O(n)      |
 | [133-clone-graph.js](https://leetcode.com/problems/clone-graph/)                                                                                          | 05/07/2022 | true   | true      | false           | O(n), O(n)      |
 | [150-evaluate-reverse-polish-notation.js](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                                                | 05/07/2022 | true   | true      | false           | O(n), O(1)      |
+| [207-course-schedule.js](https://leetcode.com/problems/course-schedule/)                                                                                  | 06/07/2022 | true   | true      | true            | O(n), O(n)      |
