@@ -75,3 +75,4 @@ My leetcode walkthroughs
 | [208-implement-trie-prefix-tree.js](https://leetcode.com/problems/implement-trie-prefix-tree/)                                                            | 06/07/2022 | true   | true      | false           | O(n), O(n)      |
 | [322-сoin-сhange.js](https://leetcode.com/problems/coin-change/)                                                                                          | 06/07/2022 | true   | false     | false           | O(n), O(n)      |
 | [238-product-of-array-except-self.js](https://leetcode.com/problems/product-of-array-except-self/)                                                        | 12/07/2022 | true   | false     | false           | O(n), O(1)      |
+| [98-validate-binary-search-tree.js](https://leetcode.com/problems/validate-binary-search-tree/)                                                           | 12/07/2022 | true   | false     | false           | O(n), O(n)      |
