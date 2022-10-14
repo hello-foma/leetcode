@@ -79,3 +79,4 @@ My leetcode walkthroughs
 | [200-number-of-islands.js](https://leetcode.com/problems/number-of-islands/)                                                                              | 12/07/2022 | true   | true      | false           | O(n), O(n)      |
 | [994-rotting-oranges.js](https://leetcode.com/problems/rotting-oranges/)                                                                                  | 12/07/2022 | true   | true      | false           | O(n), O(n)      |
 | [33-search-in-rotated-sorted-array.js](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                     | 12/07/2022 | true   | true      | false           | O(log(n)), O(1) |
+| [1-two-sum-2.js](https://leetcode.com/problems/two-sum/)                                                                                                  | 14/10/2022 | true   | true      | false           | O(n), O(n)      |
