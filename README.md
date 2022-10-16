@@ -3,8 +3,8 @@ My leetcode walkthroughs
 
 [Whiteboard with solution schemas](https://app.mural.co/t/sandbox9710/m/sandbox9710/1650713153635/86e53ef0be0f5e3ba627847396192dbe0b430341?sender=u5754990d569da3fc75054723)
 
-| Task                                                                                                                                                      | Date       | Solved | By myself | Can be improved | Complexity      |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|-----------|-----------------|-----------------|
+| Task                                                                                                                                                      | Date       | Solved | By myself | Can be improved | Complexity      | Time spent | Time Estimate |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|-----------|-----------------|-----------------|------------|---------------|
 | [217-contains-duplicate.js](https://leetcode.com/problems/contains-duplicate/)                                                                            | 23/04/2022 | true   | true      |
 | [53-maximum-subarray.js](https://leetcode.com/problems/maximum-subarray/)                                                                                 | 23/04/2022 | true   | false     |
 | [1-two-sum.js](https://leetcode.com/problems/two-sum/)                                                                                                    | 24/04/2022 | true   | true      |
@@ -79,4 +79,5 @@ My leetcode walkthroughs
 | [200-number-of-islands.js](https://leetcode.com/problems/number-of-islands/)                                                                              | 12/07/2022 | true   | true      | false           | O(n), O(n)      |
 | [994-rotting-oranges.js](https://leetcode.com/problems/rotting-oranges/)                                                                                  | 12/07/2022 | true   | true      | false           | O(n), O(n)      |
 | [33-search-in-rotated-sorted-array.js](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                     | 12/07/2022 | true   | true      | false           | O(log(n)), O(1) |
-| [1-two-sum-2.js](https://leetcode.com/problems/two-sum/)                                                                                                  | 14/10/2022 | true   | true      | false           | O(n), O(n)      |
+| [1-two-sum-2.js](https://leetcode.com/problems/two-sum/)                                                                                                  | 14/10/2022 | true   | true      | false           | O(n), O(n)      | 11m        | 20m           |
+| [20-valid-parentheses-2.js](https://leetcode.com/problems/valid-parentheses/)                                                                             | 16/10/2022 | true   | true      | false           | O(n), O(n)      | 15m        | 20m           |
