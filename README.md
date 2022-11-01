@@ -3,8 +3,8 @@ My leetcode walkthroughs
 
 [Whiteboard with solution schemas](https://app.mural.co/t/sandbox9710/m/sandbox9710/1650713153635/86e53ef0be0f5e3ba627847396192dbe0b430341?sender=u5754990d569da3fc75054723)
 
-| Task                                                                                                                                                      | Date       | Solved | By myself | Can be improved | Complexity       | Time spent | Time Estimate |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|-----------|-----------------|------------------|------------|---------------|
+| Task                                                                                                                                                      | Date       | Solved | By myself | Can be improved | Complexity       | Time spent | Time Estimate | Difficulty |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|-----------|-----------------|------------------|------------|---------------|------------|
 | [217-contains-duplicate.js](https://leetcode.com/problems/contains-duplicate/)                                                                            | 23/04/2022 | true   | true      |
 | [53-maximum-subarray.js](https://leetcode.com/problems/maximum-subarray/)                                                                                 | 23/04/2022 | true   | false     |
 | [1-two-sum.js](https://leetcode.com/problems/two-sum/)                                                                                                    | 24/04/2022 | true   | true      |
@@ -101,3 +101,4 @@ My leetcode walkthroughs
 | [3-longest-substring-without-repeating-characters-1.js](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                    | 30/10/2022 | true   | true      | false           | O(n), O(1)       | 37m        | 30m           |
 | [15-3sum-1.js](https://leetcode.com/problems/3sum/)                                                                                                       | 01/11/2022 | true   | false     | false           | O(n^2), O(1)     | 55m        | 30m           |
 | [102-binary-tree-level-order-traversal-1.js](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                            | 01/11/2022 | true   | true      | false           | O(n), O(n)       | 13m        | 20m           |
+| [133-clone-graph-1.js](https://leetcode.com/problems/clone-graph/)                                                                                        | 01/11/2022 | true   | true      | false           | O(n), O(n)       | 22m        | 25m           | M          |
