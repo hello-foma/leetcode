@@ -10,8 +10,6 @@
 
  return shortest
 
- return shortest
-
  O(n+m)
  */
 
@@ -21,6 +19,79 @@
  * @return {string}
  */
 var minWindow = function(s, t) {
+  if (t.length > s.length) {
+    return '';
+  }
+
+  if (s.length === 1) {
+    return s === t ? s : '';
+  }
+
+  const lookupHash = {};
+  let lookupLength = 0;
+
+  for(let i = 0; i < t.length; i++) {
+    const char = t[i];
+    if (typeof lookupHash[char] !== 'number') {
+      lookupHash[char] = 1;
+      lookupLength++;
+    } else {
+      lookupHash[char]++;
+    }
+  }
+
+  let shortestPos = null;
+  const found = {};
+  let foundLength = 0;
+  let l = 0;
+
+  for(let r = 0; r < s.length; r++) {
+    const char = s[r];
+    if (!lookupHash[char]) {
+      continue;
+    }
+
+    if (typeof found[char] !== 'number') {
+      found[char] = 1;
+    } else {
+      found[char]++;
+    }
+
+    if (found[char] === lookupHash[char]) {
+      foundLength++;
+    }
+
+    while(foundLength === lookupLength) {
+      const localLength = r - l;
+      if (shortestPos === null) {
+        shortestPos = [l,r];
+      } else {
+        const [sl, sr] = shortestPos;
+        if (localLength < (sr-sl)) {
+          shortestPos = [l,r];
+        }
+      }
+
+      const char = s[l];
+      if (!lookupHash[char]) {
+        l++;
+        continue;
+      }
+
+      found[char]--;
+
+      if (found[char] < lookupHash[char]) {
+        foundLength--;
+      }
+
+      l++;
+    }
+  }
+
+  return shortestPos === null ? '' : s.substring(shortestPos[0], shortestPos[1] + 1);
+};
+
+var minWindow2 = function(s, t) {
   if (t.length > s.length) {
     return '';
   }
