@@ -4,7 +4,7 @@
 
  1. We need to check every node
  2. If this is 1 - that is island or part of it
- 3. We need to check all adjancent cells and mark it as part of island (if it's 1)
+ 3. We need to check all adjacent cells and mark it as part of island (if it's 1)
  4. We need to return total number of islands
 
  0. We have visited mark (as -1 on input arr) and total counter
